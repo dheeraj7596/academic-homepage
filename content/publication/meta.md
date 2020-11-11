@@ -10,6 +10,6 @@ publication = "The 2020 Conference on Empirical Methods in Natural Language Proc
 publication_short = "EMNLP 2020"
 featured = false
 title = "META: Metadata-Empowered Weak Supervision for Text Classification"
-url_pdf = "TBA"
-url_code = "TBA"
+url_pdf = "https://www.aclweb.org/anthology/2020.emnlp-main.670.pdf"
+url_code = "https://github.com/dheeraj7596/META"
 +++
