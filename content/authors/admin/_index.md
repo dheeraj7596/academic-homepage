@@ -10,7 +10,7 @@ authors:
 superuser: true
 
 # Role/position
-role: Masters Student in Computer Science
+role: Ph.D. Student in Computer Science
 
 # Organizations/Affiliations
 organizations:
@@ -18,15 +18,17 @@ organizations:
   url: ""
 
 # Short bio (displayed in user profile at end of posts)
-bio: My research interests include distributed robotics, mobile computing and programmable matter.
+bio: My research interests include few-shot, weakly supervised learning, security in NLP systems and deep learning.
 
 interests:
+- Machine Learning
 - Natural Language Processing
-- Text Mining
-- Graph Mining
 
 education:
   courses:
+  - course: PhD in Computer Science
+    institution: University of California, San Diego
+    year: 2025 (expected)
   - course: MS in Computer Science
     institution: University of California, San Diego
     year: 2021
@@ -54,7 +56,7 @@ social:
 - icon: linkedin
   icon_pack: fab
   link: https://www.linkedin.com/in/dheeraj7596/
-# Link to a PDF of your resume/CV from the About widget.
+# Link to a PDF of your resume/CV from the About widget.  
 # To enable, copy your resume/CV to `static/files/cv.pdf` and uncomment the lines below.
 - icon: cv
   icon_pack: ai
@@ -70,6 +72,15 @@ user_groups:
 - Visitors
 ---
 
-I am a Master’s student in the [Computer Science department](https://cse.ucsd.edu/) at the [University of California, San Diego](https://ucsd.edu/) working with [Prof. Jingbo Shang](https://shangjingbo1226.github.io/). I am broadly interested in Natural Language Processing, Text Mining, and Graph Mining. My current research revolves around developing principled data-driven approaches with minimal human effort. I completed my Bachelor Of Technology in Computer Science And Engineering from the [Indian Institute of Technology, Kanpur](https://www.iitk.ac.in/) in 2017, where I worked with [Prof. Harish Karnick](http://iitk.ac.in/new/dr-harish-karnick), [Prof. Purushottam Kar](https://www.cse.iitk.ac.in/users/purushot/) on Hierarchical Classification and Text Document Representation. I worked as a Data Scientist and Product Engineer at [Sprinklr](https://www.sprinklr.com/) for 2 years and I interned at [Microsoft India](https://www.microsoft.com/en-in) in the summer of 2016.
+I am a Ph.D. student in the [Computer Science department](https://cse.ucsd.edu/) at the [University of California, San Diego](https://ucsd.edu/) working with [Prof. Jingbo Shang](https://shangjingbo1226.github.io/). I am broadly interested in Machine Learning and Natural Language Processing. 
 
-Apart from Academics, I enjoy spending time playing Lawn Tennis, Table Tennis, Badminton. I watch football(soccer) and I rarely write too. Checkout my [blog](https://articulationofmyheart.wordpress.com/)!
+For summer 2021, I am interning at Amazon Science with [Dr. Xin Luna Dong](https://lunadong.com/). I completed my Bachelor Of Technology in Computer Science And Engineering from the [Indian Institute of Technology, Kanpur](https://www.iitk.ac.in/) in 2017, where I worked with [Prof. Harish Karnick](http://iitk.ac.in/new/dr-harish-karnick) and [Prof. Purushottam Kar](https://www.cse.iitk.ac.in/users/purushot/). I worked as a Data Scientist and Product Engineer at [Sprinklr](https://www.sprinklr.com/) for 2 years and I interned at [Microsoft India](https://www.microsoft.com/en-in) in the summer of 2016.
+
+### Current Research
+**Few Shot & Weakly Supervised Learning** I develop high performing deep neural frameworks with minimal human supervision such as just [class labels](https://arxiv.org/pdf/2010.12794.pdf) or a few label-indicative [seed words](https://www.aclweb.org/anthology/2020.acl-main.30.pdf). I am interested in leveraging massive amounts of [unstructured](https://www.aclweb.org/anthology/2020.emnlp-main.670.pdf) and [unlabeled data](https://arxiv.org/pdf/2104.08723.pdf) available on the internet for supervision and additional contextual information. Further, I am also keen on beneficially leveraging pre-trained language models to reduce the need for annotated data.
+
+**Security** I study vulnerabilities of current NLP systems such as data poisoning and trigger-based backdoor attacks and work towards developing strong defense methods against such attacks.
+
+**Deep Learning** A deep neural network is known to learn/overfit any randomly labeled data. I am interested in understanding and unveiling the learning process of deep neural architectures and further use it to analyze the quality of data. 
+
+Apart from Academics, I enjoy spending time playing Ukulele, playing Football(soccer) and I rarely write too. Checkout my [blog](https://articulationofmyheart.wordpress.com/)!
