@@ -10,6 +10,6 @@ publication = "The Findings of 2020 Conference on Empirical Methods in Natural L
 publication_short = "EMNLP Findings 2021"
 featured = false
 title = "BFClass: A Backdoor-free Text Classification Framework"
-url_pdf = "https://arxiv.org/pdf/2109.10856.pdf"
+url_pdf = "https://arxiv.org/pdf/2109.10855.pdf"
 url_code = "https://github.com/dheeraj7596/BFClass"
 +++
