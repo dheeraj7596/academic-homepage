@@ -10,7 +10,7 @@ authors:
 superuser: true
 
 # Role/position
-role: Ph.D. Student in Computer Science
+role: Ph.D. Candidate in Computer Science
 
 # Organizations/Affiliations
 organizations:
@@ -72,15 +72,23 @@ user_groups:
 - Visitors
 ---
 
-I am a Ph.D. student in the [Computer Science department](https://cse.ucsd.edu/) at the [University of California, San Diego](https://ucsd.edu/) working with [Prof. Jingbo Shang](https://shangjingbo1226.github.io/). I am broadly interested in Machine Learning and Natural Language Processing. 
-
-For summer 2022, I am interning at Microsoft Semantic Machines with [Dr. Subhro Roy](https://sroy9.github.io/) working on Weakly Supervised Semantic Parsing. I completed my Bachelor Of Technology in Computer Science And Engineering from the [Indian Institute of Technology, Kanpur](https://www.iitk.ac.in/) in 2017, where I worked with [Prof. Harish Karnick](http://iitk.ac.in/new/dr-harish-karnick) and [Prof. Purushottam Kar](https://www.cse.iitk.ac.in/users/purushot/). I worked as a Data Scientist and Product Engineer at [Sprinklr](https://www.sprinklr.com/) for 2 years and I interned at [Microsoft India](https://www.microsoft.com/en-in) in the summer of 2016.
+I am a Ph.D. Candidate in the [Computer Science department](https://cse.ucsd.edu/) at the [University of California, San Diego](https://ucsd.edu/) working with [Prof. Jingbo Shang](https://shangjingbo1226.github.io/). I completed my Bachelor Of Technology in Computer Science And Engineering from the [Indian Institute of Technology, Kanpur](https://www.iitk.ac.in/) in 2017. My research is centered on understanding data and the development of data-driven approaches to enhance NLP pipelines, with a particular emphasis on reducing annotation and training costs. I'm actively exploring the following inquiries:
 
 ### Current Research
-**Few Shot & Weakly Supervised Learning** I develop high performing deep neural frameworks with minimal human supervision such as just [class labels](https://arxiv.org/pdf/2010.12794.pdf) or a few label-indicative [seed words](https://www.aclweb.org/anthology/2020.acl-main.30.pdf). I am interested in leveraging massive amounts of [unstructured](https://www.aclweb.org/anthology/2020.emnlp-main.670.pdf) and [unlabeled data](https://arxiv.org/pdf/2104.08723.pdf) available on the internet for supervision and additional contextual information. Further, I am also keen on beneficially leveraging pre-trained language models to reduce the need for annotated data.
+**Data Quality for Performance** I examine the data landscape through the lens of difficulty, diversity, and noise, striving to understand whether we could find the optimal volume of data necessary for achieving specific performance targets.
 
-**Security** I study vulnerabilities of current NLP systems such as data poisoning and trigger-based backdoor attacks and work towards developing strong defense methods against such attacks.
+**Leveraging Noisy Data** Given that noisy data is often more readily available and cost-effective to obtain compared to clean data, I'm exploring the extent to which we can advance NLP tasks with noisy data and weak supervision.
 
-**Deep Learning** A deep neural network is known to learn/overfit any randomly labeled data. I am interested in understanding and unveiling the learning process of deep neural architectures and further use it to analyze the quality of data. 
+**Enhancing Model Awareness** How can we empower language models to be self-aware of their capabilities and train them to provide well-calibrated predictions, making their scores more reliable? I'm also interested in enabling them to use external tools & resources when they are not confident.
+
+I'm extremely enthusiastic about designing goal-driven language assistants, and this area presents an abundance of intriguing questions to explore. In my [vision statement](https://medium.com/@dmekala/the-future-goal-driven-language-assistants-f6009462ba4), I delve deep into some of the questions including:
+
+**Empowering Language Assistants** One fundamental feature I envision for language assistants is their capacity to seamlessly integrate with a diverse range of tools. How can we train these assistants to adapt and effectively utilize tools that are new or previously unseen?
+
+**Enhancing Collaboration** Building an assistant that can collaborate harmoniously with humans to simplify their tasks is a pivotal challenge. This entails improving the assistant's ability to ask clarifying questions, thereby fostering a productive partnership.
+
+**Proactivity in Assistants** Are existing language assistants proactive, and how do we define and quantify their proactiveness? Exploring ways to train an assistant to be proactive is another intriguing aspect of this research.
+
+For summer 2023, I am interning at FAIR London, Meta AI  with [Dr. Jane Yu](https://janedwivedi.github.io/), [Dr. Jason Weston](http://www.thespermwhale.com/jaseweston/), working on improving the tool use capability of large language models. Previously, I interned at Microsoft Semantic Machines in 2022, and Amazon Science in 2021.
 
 Apart from Academics, I enjoy spending time playing Ukulele, playing Football(soccer) and I rarely write too. Checkout my [blog](https://articulationofmyheart.wordpress.com/)!
