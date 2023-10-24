@@ -72,23 +72,24 @@ user_groups:
 - Visitors
 ---
 
-I am a Ph.D. Candidate in the [Computer Science department](https://cse.ucsd.edu/) at the [University of California, San Diego](https://ucsd.edu/) working with [Prof. Jingbo Shang](https://shangjingbo1226.github.io/). I completed my Bachelor Of Technology in Computer Science And Engineering from the [Indian Institute of Technology, Kanpur](https://www.iitk.ac.in/) in 2017. My research is centered on understanding data and the development of data-driven approaches to enhance NLP pipelines, with a particular emphasis on reducing annotation and training costs. I'm actively exploring the following inquiries:
+I am a Ph.D. Candidate in the [Computer Science department](https://cse.ucsd.edu/) at the [University of California, San Diego](https://ucsd.edu/) working with [Prof. Jingbo Shang](https://shangjingbo1226.github.io/). I completed my Bachelor Of Technology in Computer Science And Engineering from the [Indian Institute of Technology, Kanpur](https://www.iitk.ac.in/) in 2017.
 
 ### Current Research
-**Data Quality for Performance** I examine the data landscape through the lens of difficulty, diversity, and noise, striving to understand whether we could find the optimal volume of data necessary for achieving specific performance targets.
+My research is centered on understanding data and the development of data-driven approaches to enhance NLP pipelines, with a particular emphasis on reducing annotation and training costs. I'm actively exploring the following inquiries:
+- **Data Quality for Performance** I examine the data landscape through the lens of difficulty, diversity, and noise, striving to understand whether we could find the optimal volume of data necessary for achieving specific performance targets.
 
-**Leveraging Noisy Data** Given that noisy data is often more readily available and cost-effective to obtain compared to clean data, I'm exploring the extent to which we can advance NLP tasks with noisy data and weak supervision.
+- **Leveraging Noisy Data** Given that noisy data is often more readily available and cost-effective to obtain compared to clean data, I'm exploring the extent to which we can advance NLP tasks with noisy data and weak supervision.
 
-**Enhancing Model Awareness** How can we empower language models to be self-aware of their capabilities and train them to provide well-calibrated predictions, making their scores more reliable? I'm also interested in enabling them to use external tools & resources when they are not confident.
+- **Enhancing Model Awareness** How can we empower language models to be self-aware of their capabilities and train them to provide well-calibrated predictions, making their scores more reliable? I'm also interested in enabling them to use external tools & resources when they are not confident.
 
-I'm extremely enthusiastic about designing goal-driven language assistants, and this area presents an abundance of intriguing questions to explore. In my [vision statement](https://medium.com/@dmekala/the-future-goal-driven-language-assistants-f6009462ba4), I delve deep into some of the questions including:
+I'm also extremely enthusiastic about designing goal-driven language assistants, and this area presents an abundance of intriguing questions to explore. In my [vision statement](https://medium.com/@dmekala/the-future-goal-driven-language-assistants-f6009462ba4), I delve deep into some of the questions including:
 
-**Empowering Language Assistants** One fundamental feature I envision for language assistants is their capacity to seamlessly integrate with a diverse range of tools. How can we train these assistants to adapt and effectively utilize tools that are new or previously unseen?
+- **Empowering Language Assistants** One fundamental feature I envision for language assistants is their capacity to seamlessly integrate with a diverse range of tools. How can we train these assistants to adapt and effectively utilize tools that are new or previously unseen?
 
-**Enhancing Collaboration** Building an assistant that can collaborate harmoniously with humans to simplify their tasks is a pivotal challenge. This entails improving the assistant's ability to ask clarifying questions, thereby fostering a productive partnership.
+- **Enhancing Collaboration** Building an assistant that can collaborate harmoniously with humans to simplify their tasks is a pivotal challenge. This entails improving the assistant's ability to ask clarifying questions, thereby fostering a productive partnership.
 
-**Proactivity in Assistants** Are existing language assistants proactive, and how do we define and quantify their proactiveness? Exploring ways to train an assistant to be proactive is another intriguing aspect of this research.
+- **Proactivity in Assistants** Are existing language assistants proactive, and how do we define and quantify their proactiveness? Exploring ways to train an assistant to be proactive is another intriguing aspect of this research.
 
-For summer 2023, I am interning at FAIR London, Meta AI  with [Dr. Jane Yu](https://janedwivedi.github.io/), [Dr. Jason Weston](http://www.thespermwhale.com/jaseweston/), working on improving the tool use capability of large language models. Previously, I interned at Microsoft Semantic Machines in 2022, and Amazon Science in 2021.
+For summer 2023, I am interning at FAIR London, Meta AI  with [Dr. Jane Yu](https://janedwivedi.github.io/) and [Dr. Jason Weston](http://www.thespermwhale.com/jaseweston/), working on improving the tool use capability of large language models. Previously, I interned at Microsoft Semantic Machines in 2022, and Amazon Science in 2021.
 
 Apart from Academics, I enjoy spending time playing Ukulele, playing Football(soccer) and I rarely write too. Checkout my [blog](https://articulationofmyheart.wordpress.com/)!
