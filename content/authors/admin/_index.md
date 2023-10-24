@@ -72,7 +72,7 @@ user_groups:
 - Visitors
 ---
 
-I am a Ph.D. Candidate in the [Computer Science department](https://cse.ucsd.edu/) at the [University of California, San Diego](https://ucsd.edu/) working with [Prof. Jingbo Shang](https://shangjingbo1226.github.io/). I completed my Bachelor Of Technology in Computer Science And Engineering from the [Indian Institute of Technology, Kanpur](https://www.iitk.ac.in/) in 2017.
+I am a Ph.D. Candidate in the [Computer Science department](https://cse.ucsd.edu/) at the [University of California, San Diego](https://ucsd.edu/) working with [Prof. Jingbo Shang](https://shangjingbo1226.github.io/). I completed my Bachelor Of Technology in Computer Science And Engineering from the [Indian Institute of Technology, Kanpur](https://www.iitk.ac.in/) in 2017. For summer 2023, I am interning at FAIR London, Meta AI  with [Dr. Jane Yu](https://janedwivedi.github.io/) and [Dr. Jason Weston](http://www.thespermwhale.com/jaseweston/), working on improving the tool use capability of large language models. Previously, I interned at Microsoft Semantic Machines in 2022, and Amazon Science in 2021.
 
 ### Current Research
 My research is centered on understanding data and the development of data-driven approaches to enhance NLP pipelines, with a particular emphasis on reducing annotation and training costs. I'm actively exploring the following inquiries:
@@ -86,10 +86,8 @@ I'm also extremely enthusiastic about designing goal-driven language assistants,
 
 - **Empowering Language Assistants** One fundamental feature I envision for language assistants is their capacity to seamlessly integrate with a diverse range of tools. How can we train these assistants to adapt and effectively utilize tools that are new or previously unseen?
 
-- **Enhancing Collaboration** Building an assistant that can collaborate harmoniously with humans to simplify their tasks is a pivotal challenge. This entails improving the assistant's ability to ask clarifying questions, thereby fostering a productive partnership.
+- **Enhancing Collaboration** Building an assistant that can collaborate with humans to simplify their tasks is a pivotal challenge. This entails improving the assistant's ability to ask clarifying questions, thereby fostering a productive partnership.
 
 - **Proactivity in Assistants** Are existing language assistants proactive, and how do we define and quantify their proactiveness? Exploring ways to train an assistant to be proactive is another intriguing aspect of this research.
-
-For summer 2023, I am interning at FAIR London, Meta AI  with [Dr. Jane Yu](https://janedwivedi.github.io/) and [Dr. Jason Weston](http://www.thespermwhale.com/jaseweston/), working on improving the tool use capability of large language models. Previously, I interned at Microsoft Semantic Machines in 2022, and Amazon Science in 2021.
 
 Apart from Academics, I enjoy spending time playing Ukulele, playing Football(soccer) and I rarely write too. Checkout my [blog](https://articulationofmyheart.wordpress.com/)!
