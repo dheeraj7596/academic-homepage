@@ -78,7 +78,7 @@ I am a Ph.D. Candidate in the [Computer Science department](https://cse.ucsd.edu
 My research is centered on understanding data and the development of data-driven approaches to enhance NLP pipelines, with a particular emphasis on reducing annotation and training costs. I'm actively exploring the following inquiries:
 - **Data Quality for Performance** I examine the data landscape through the lens of difficulty, diversity, and noise, striving to understand whether we could find the [optimal volume of data](https://arxiv.org/pdf/2402.10430.pdf) necessary for achieving specific performance targets.
 
-- **Leveraging Noisy Data** Given that noisy data is often more readily available and cost-effective to obtain compared to clean data, I'm exploring the extent to which we can advance NLP tasks with noisy data and weak supervision[1](https://aclanthology.org/2020.acl-main.30.pdf), [2](https://aclanthology.org/2022.emnlp-main.660.pdf), [3](https://aclanthology.org/2022.findings-emnlp.360.pdf).
+- **Leveraging Noisy Data** Given that noisy data is often more readily available and cost-effective to obtain compared to clean data, I'm exploring the extent to which we can advance NLP tasks with noisy data and weak supervision[[1]](https://aclanthology.org/2020.acl-main.30.pdf), [[2]](https://aclanthology.org/2022.emnlp-main.660.pdf), [[3]](https://aclanthology.org/2022.findings-emnlp.360.pdf).
 
 - **Enhancing Model Awareness** How can we empower language models to be self-aware of their capabilities and train them to provide well-calibrated predictions, making their scores more reliable? I'm also interested in enabling them to use [external tools](https://arxiv.org/pdf/2402.14158.pdf) & resources when they are not confident.
 
